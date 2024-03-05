@@ -1,0 +1,19 @@
+{
+  "name": "advanced-data-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wiz_nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.2",
+    "pandas-js": "^0.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
